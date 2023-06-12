@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod os.stat(hello) os.chmod(olleh)
+'os.stat()' hello 'os.chmod()' olleh
