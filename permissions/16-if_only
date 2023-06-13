@@ -1,0 +1,2 @@
+#!/bin/bash
+if [ $(whoami)== "guillaume"] && [ -f "hello" ]; then chown vincent hello
