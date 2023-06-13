@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod -R ugo+x
+chmod +x add_execute_permission.sh
