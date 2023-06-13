@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x sysinfo.sh
+chmod --reference=reference_file hello
