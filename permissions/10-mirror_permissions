@@ -1,3 +1,2 @@
 #!/bin/bash
-chmod 'os.stat()hello'os.chmod()'olleh
-
+chmod 664 hello /olleh
