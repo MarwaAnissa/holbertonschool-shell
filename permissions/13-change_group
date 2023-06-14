@@ -1,2 +1,2 @@
 #!/bin/bash
-./change-group-owner.sh hello school
+chgrp school ./hello
