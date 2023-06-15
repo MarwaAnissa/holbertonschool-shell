@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head -n 10 | while read file; do
+ls -1t | head
